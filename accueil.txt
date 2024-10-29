@@ -1,0 +1,32 @@
+<html>
+   <head>
+      <title> mini projet </title>
+   <body>
+      <header>
+          <h1> Maroc Voyage </h1>
+          <img src="logo.jpg" width="300" height="300">
+          <nav>
+             <ul> 
+                  <li><a href="accueil.html">Accueil</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                  <li><a href="voyages.html">Voyages organisés</a></li>
+             </ul>
+           </nav>
+       </header>
+       <main>
+           <h2> Bonne expérience!</h2>
+           <section id="articles">
+              <h2>Derniers articles </h2>
+              <article>
+                  <h3> Marrakech </h3>
+                  <p> Marrakech est bien plus qu'une simple ville, c'est une expérience sensorielle intense. Le tumulte de la place Jemaa el-Fna, les effluves d'épices des souks, les couleurs chatoyantes des riads et la douceur de l'Atlas en toile de fond créent une ambiance unique. Cet article vous invite à plonger au cœur de cette ville ocre et à découvrir ses mille et une facettes.</p>
+                  <a href="article1.html"> Lire la suite</a>
+                  <h3> Agadir </h3>
+                  <p> Agadir est une destination qui plaira à tous les types de voyageurs. Que vous soyez à la recherche de farniente, d'aventures ou de découvertes culturelles, vous trouverez votre bonheur dans cette ville dynamique et accueillante.</p>
+                  <a href="article2.html"> Lire la suite</a>
+              </article>
+              </section>
+       </main>
+       <footer>
+           <p>&copy; 2024 bonne Voyage</p>
+      </footer>

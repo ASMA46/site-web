@@ -1,0 +1,51 @@
+<html>
+<body>
+      <header>
+          <h1>Maroc Voyage</h1>
+          <img src="logo.jpg" width="300" height="300">
+          <nav>
+             <ul> 
+                  <li><a href="accueil.html">Accueil</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                  <li><a href="voyages.html">Voyages organisés</a></li>
+             </ul>
+           </nav>
+       </header>
+<main>
+           <h2> Bonne expérience!</h2>
+           <section id="articles">
+              <h2>Derniers articles </h2>
+              <article>
+                  <h3> Agadir: Soleil, plages et culture  </h3>
+                  <p> Agadir, perle du sud du Maroc, est une destination prisée pour ses plages de sable fin, son climat ensoleillé et son riche patrimoine culturel. La ville, reconstruite après le tremblement de terre de 1960, offre un mélange harmonieux entre modernité et tradition.<br>
+Les incontournables :<br>
+La plage: Étendue sur plusieurs kilomètres, la plage d'Agadir est l'attraction principale de la ville. Les amateurs de farniente pourront se détendre sur le sable chaud, tandis que les plus sportifs pourront pratiquer des activités nautiques telles que le surf, le kitesurf ou la plongée sous-marine.<br>
+               <img src="plage.jpg" width="300" height="300">
+La médina: Même si elle a été reconstruite, la médina d'Agadir offre une ambiance authentique avec ses souks colorés où l'on peut trouver de l'artisanat local, des épices et des vêtements traditionnels.<br>
+               <img src="Médina agadir.jpg" width="300" height="300">
+La casbah d'Agadir Oufella: Située sur une colline, la casbah offre une vue panoramique sur la ville et l'océan. Les ruines de l'ancienne kasbah témoignent de l'histoire riche de la région.<br>
+                <img src="agadir-kasbah.jpg" width="300" height="300">
+Le port: Le port d'Agadir est un lieu animé où l'on peut observer les pêcheurs et déguster des produits de la mer frais.<br>
+Le musée du patrimoine Amazigh: Ce musée retrace l'histoire et la culture des Berbères, peuple originel du Maroc.<br>
+Les activités :<br>
+Excursions:<br>
+Vallée du Souss: Découvrez les paysages verdoyants de la vallée du Souss, ses villages berbères et ses oasis.<br>
+Parc national de Souss-Massa: Observez la faune et la flore de ce parc national, notamment les flamants roses.<br>
+Essaouira: Cette cité portuaire, classée au patrimoine mondial de l'UNESCO, est réputée pour ses remparts, son souk et son atmosphère bohème.<br>
+Sports nautiques: En plus du surf et du kitesurf, vous pourrez pratiquer la plongée sous-marine, le jet-ski, ou encore la pêche en haute mer.<br>
+Détente: Les nombreux hôtels et complexes hôteliers d'Agadir proposent une large gamme de services et d'activités pour se détendre : spa, hammam, golf, etc.<br>
+Gastronomie: Dégustez les spécialités locales telles que le tajine, le couscous ou le poisson grillé.</p>
+<aside>
+     <h1> Conseils pratiques</h1>
+       <p> Quand partir ?<br> 
+La meilleure période pour visiter Agadir est de mai à octobre, lorsque les températures sont douces et ensoleillées.<br>
+Comment s'y rendre ?<br> Agadir dispose d'un aéroport international desservi par de nombreuses compagnies aériennes.<br>
+Où loger ? <br> Vous trouverez à Agadir une large gamme d'hébergements pour tous les budgets, des hôtels de luxe aux riads traditionnels.<br></p>
+ </aside>
+         </article>
+      </section>
+       </main>
+       <footer>
+           <p>&copy; 2024 bonne Voyage</p>
+      </footer>
+

@@ -1,0 +1,45 @@
+<html>
+<body>
+      <header>
+          <h1> Maroc Voyage </h1>
+         <img src="logo.jpg" width="300" height="300">>
+          <nav>
+             <ul> 
+                  <li><a href="accueil.html">Accueil</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                  <li><a href="voyages.html">Voyages organisés</a></li>
+             </ul>
+           </nav>
+       </header>
+<main>
+           <h2> Bonne expérience!</h2>
+           <section id="articles">
+              <h2>Derniers articles </h2>
+              <article>
+                  <h3> Marrakech </h3>
+                  <p> Marrakech, un chant qui éveille les sens. Une ville où la vie dépasse la narration.<br>
+Un festival destiné aux yeux :La médina de Marrakech est une véritable multitude de teintes. Les maisons traditionnelles aux façades rouges contrastent avec les couleurs intenses des étoffes présentées dans les foires. Les palais et les mosquées offrent des mosaïques complexes qui vous emmènent dans un univers féérique. N'oublions pas non plus les jardins florissants, véritables refuges de verdure au centre-ville, où les palmiers se déplacent légèrement sous le vent.<br>
+Un périple parfumé : Dès que vous entrez dans la médina, les parfums envahissent vos narines. Les épices, les cuirs, le encens, la confiture de fruits... Un festival authentique pour votre sens du parfum. Il y a une multitude de stands sur les souks qui vous invitent à savourer des infusions aux multiples bienfaits. Optez pour une tasse de thé à la menthe, un rituel authentique au Maroc.<br>
+Une symphonie auditive : Le son de la foule, les appels des commerçants, le chant des oiseaux... Marrakech est une ville vibrante et résonante. Le centre de la ville, la place Jemaa el-Fna, est un véritable panorama animé. Les charmeurs de serpents, les narrateurs, les musiciens... Une multitude de personnages colorés qui vous procureront un instant d'enchantement total.<br>
+Un plaisir pour la bouche :La gastronomie marocaine représente un véritable périple pour les sens. Les tajines à feu doux, les couscous aromatiques, les gâteaux délicats... Chaque plat constitue une incitation au périple. N'hésitez pas à explorer les ruelles médinales pour trouver de petits restaurants offrant la possibilité d'apprécier des mets authentiques.<br>
+Une aventure à vivre : Marrakech, c'est plus qu'un simple déplacement, c'est une véritable expérience à vivre. Perdez-vous dans l'énergie urbaine, explorez les foires, discutez avec les artisans, savourez les spécialités de la région... Particulièrement, ouvrez vos sens pour savourer chaque moment.</p>
+       <img src="Jemaa el-Fna.jpg" width="300" height="300">
+       <img src="Marrakech.jpg" width="300" height="300">
+       <img src="Souk.jpg" width="300" height="300">
+       <img src="Médina.jpg" width="300" height="300">
+       <img src="Bab Marrakech.jpg" width="300" height="300">
+         <aside>
+              <h1>Quelques conseils </h1>
+                 <p> Visitez la médina tôt le matin pour éviter la foule et profiter d'une ambiance plus paisible.<br>
+Perdez-vous dans les souks et laissez-vous surprendre par les couleurs et les odeurs.
+Goûtez à tout : les fruits secs, les épices, les pâtisseries...<br>
+Assistez à un spectacle sur la place Jemaa el-Fna pour vivre une expérience unique.
+Offrez-vous un hammam traditionnel pour une relaxation totale <br> </p>
+
+         </aside>
+         </article>
+      </section>
+       </main>
+       <footer>
+           <p>&copy; 2024 bonne Voyage</p>
+      </footer>
